@@ -1,0 +1,50 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg-blue {
+    background-color: rgb(12, 2, 1);
+    filter: contrast(20%);
+}
+.text-blue {
+    color: rgb(43, 22, 238);
+}
+.skill {
+    background-color: rgb(238, 44, 22);
+}
+.underline {
+    border-bottom: 2px solid 
+}
+.profile-photo {
+    max-width: 224px;
+}
+.img-fluid{
+    align-self: auto;
+    border-radius: 50%;
+    border: 5px solid rgb(180, 238, 22);
+}
+.img-fluid{
+
+    border-top-left-radius: 70% 70%;
+    border-top-right-radius: 70% 70%;
+    border-bottom-left-radius: 70% 70%;
+    border-bottom-right-radius: 70% 70%;
+    
+}
+
+.lead
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.display-5{
+    font-family: initial;
+    
+
+}
+.head-1{
+    background-color: rgb(180, 238, 22);
+    border: 3px solid;
+    border-color: rgb(3, 1, 12);
+    border-style: solid;
+ 
+
+}
